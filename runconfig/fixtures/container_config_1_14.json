@@ -17,7 +17,7 @@
      "Cmd":[
              "bash"
      ],
-     "Image":"ubuntu",
+     "Image":"ubuntu 15.04",
      "Volumes":{
              "/tmp": {}
      },
